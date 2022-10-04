@@ -5,42 +5,7 @@
     background-blend-mode: multiply; 
      /* font-size: 62.5%; */
 }
- /* * {
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0; */
-    /* padding: 0;  */
-    /* color: rgba(12, 70, 136, 0.938);s */
-/* } */
-/* .sidenav {
-  height: 100%;
-  width: 70px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color:white;
-  overflow-x: hidden;
-  padding-top: 20px;
-} */
 
-/* .sidenav a { */
-/* padding: 1.2rem; */
-  /* padding: 6px 2px 6px 16px; */
-  /* text-decoration: none; */
-  /* font-size:1.2rem; */
-  /* text-align: center; */
-  /* color: #818181; */
-  /* display: block; */
-/* } */
-
-/* .sidenav a:hover { */
-  /* color: #f1f1f1; */
-/* } */
-
-/* @media screen and (max-height: 450px) { */
-  /* .sidenav {padding-top: 15px;} */
-  /* .sidenav a {font-size: 18px;} */
 
 #logo{
 float:left;
