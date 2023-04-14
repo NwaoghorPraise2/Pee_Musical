@@ -48,6 +48,7 @@ body{
 	overflow-x: hidden;
 	/* padding: 2rem; */
 	width: 100%;
+  /* margin: 6 */
 }
 .video{
 	position: relative;
@@ -342,6 +343,7 @@ body{
             
           footer{
           text-align: center;
+          margin: 10rem;
           /* min-height: 640px; */
           /* background-color: aqua; */
           
