@@ -11,7 +11,6 @@
     <br/>
     <br/>
     <!-- <a href="https://covid-19-monitor.nwaoghorpraise.repl.co">View Demo</a> -->
-    .
     <a href="https://github.com/NwaoghorPraise2/Pee_Musical/issues">Report Bug</a>
     .
     <a href="https://github.com/NwaoghorPraise2/Pee_Musical/issues">Request Feature</a>
